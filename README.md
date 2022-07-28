@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JihyunGong
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Javascript, HTML, and CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Computer Programming
+- 🌱 I’m currently learning Javascript, React, Express, Node
+- 💞️ I’m looking to collaborate on the company that develops together
 - 📫 How to reach me jihyun2462@gmail.com
 
 <!---
